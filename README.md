@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cites: Skylines mods
 - 🌱 I’m currently learning very little :)
 - 💞️ I’m looking to provide crash reports
-- 📫 How to reach me - via email
+- 📫 How to reach me - via email or my Cities: Skylines username (same as Github)
 
 <!---
 peb2002/peb2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
